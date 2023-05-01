@@ -85,10 +85,10 @@ div.desc {
 div.header{
 	border: 3px groove #E8680F;
 	border-radius: 25px;
-	font-family: cursive;
+	
 	float:left;
 	border-width:medium;
-	color: blueviolet;
+	
 	
 }
 div.column{
@@ -135,7 +135,7 @@ div.indexparagraph{
 
 div.resume{
 	width:  100%;
-	background-color: yellowgreen;
+	
 }
 
 	
